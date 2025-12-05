@@ -60,3 +60,4 @@ wash.rinse()
 wash.turnOff()
 
 console.log(wash)
+
